@@ -1,0 +1,3 @@
+@echo off
+echo Starting FitNest Backend Server...
+.\mvnw.cmd spring-boot:run
